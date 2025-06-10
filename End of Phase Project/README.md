@@ -1,6 +1,6 @@
 # Water Pump Functionality Prediction in Tanzania
 ![Water in an arid area](Images/view-fantasy-landscape-with-surreal-running-water-tap-world-water-day-awareness.jpg)
-Author:Janine Makorre
+Author: **Janine Makorre**
 
 ## Project Overview
 This project develops a logistic regression model to predict the functionality status of water pumps in Tanzania (functional, non-functional, or functional needs repair) using data from [Taarifa](https://taarifa.org/) and the [Tanzanian Ministry of Water](https://www.maji.go.tz/). The goal is to assist the Ministry in prioritizing pump maintenance to ensure clean water access, addressing Tanzania's water crisis.
@@ -45,7 +45,7 @@ Performance Metrics:
 - It highlights that dry wells strongly correlate with non-functional pumps.
 
 3. **Feature Importance**
-![Feature Importance](Images/Top%2010%20Feature%20Importance)
+![Feature Importance](Images/Top%2010%20Feature%20Importance%20Logistic%20Regression.png)
 
 - Identifies quantity_group_dry, permit, and age as top predictors.
 
@@ -78,3 +78,8 @@ See the full analysis in the [Jupyter Notebook](https://github.com/Uxer-Janine/F
 For additional info, contact [janinemakorre@gmail.com](janinemakorre@gmail.com).
 
 ## Repository Structure
+├── Files
+├── Images
+├── index.ipynb
+├── README.md
+└── Presentation.pdf
