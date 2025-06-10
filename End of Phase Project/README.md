@@ -35,23 +35,23 @@ Performance Metrics:
 
 1.**Pump Distribution by Functional Status**
 
-![Pump Distribution by Functional Status](Images/Pump Distribution by Functional Status.png) 
+![Pump Distribution by Functional Status](Images/Pump%20Distribution%20by%20Functional%20Status.png) 
 
 - It shows functional pumps dominate (54.3%), with non-functional (38.4%) and functional needs repair (7.3%) less common.
 
 2. **Effect of Water Quantity on Pump Functionality**
-![Effect of Water Quantity on Pump Functionality](Images/Effect of water quantity in a well on the Pump's functionality status.png)
+![Effect of Water Quantity on Pump Functionality](Images/Effect%20of%20water%20quantity%20in%20a%20well%20on%20the%20Pump's%20functionality%20status.png)
 
 - It highlights that dry wells strongly correlate with non-functional pumps.
 
 3. **Feature Importance**
-![Feature Importance](Images/Top 10 Feature Importance: Logistic Regression.png)
+![Feature Importance](Images/Top%2010%20Feature%20Importance)
 
 - Identifies quantity_group_dry, permit, and age as top predictors.
 
 
 4. **Confusion Matrix**
-![Confusion Matrix](Images/Confusion Matrix_Tuned Logistic Regression.png)
+![Confusion Matrix](Images/Confusion%20Matrix_Tuned%20Logistic%20Regression.png)
 
 - Reveals misclassifications, particularly for the minority class (functional needs repair).
 
