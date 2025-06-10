@@ -79,8 +79,9 @@ For additional info, contact [janinemakorre@gmail.com](janinemakorre@gmail.com).
 
 ## Repository Structure
 
-├── Files 
-├── Images
-├── index.ipynb
-├── README.md
-└── Presentation.pdf
+├──Files
+├──Images
+├──index.ipynb
+├──README.md
+└──Presentation.pdf
+ 
