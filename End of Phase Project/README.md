@@ -78,8 +78,9 @@ See the full analysis in the [Jupyter Notebook](https://github.com/Uxer-Janine/F
 For additional info, contact [janinemakorre@gmail.com](janinemakorre@gmail.com).
 
 ## Repository Structure
-├── Files
-├──Images
-├──index.ipynb
-├──README.md
-└──Presentation.pdf
+
+├── Files 
+├── Images
+├── index.ipynb
+├── README.md
+└── Presentation.pdf
